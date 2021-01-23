@@ -8,5 +8,5 @@ pr4=$(cat pr4)
 victim=$(cat victima)
 envialink=$(cat hola)
 
-export correobycalvinharrisxd=$pr1$victim$pr2"'$envialink'"$pr3"'$envialink'"$pr4
+export correobybenyaminxd=$pr1$victim$pr2"'$envialink'"$pr3"'$envialink'"$pr4
 	
